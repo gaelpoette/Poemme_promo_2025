@@ -4,3 +4,5 @@ Par un beau matin de Novembre
 Les étudiants s'attaquent à git
 Ils ne sont pas là pour manger des frites
 Ils ont faim et n'arrivent pas à ce concentrer
+Cependant il ne faut pas se leurrer
+Ce TP ils vont le terminer
