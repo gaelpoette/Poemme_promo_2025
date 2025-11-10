@@ -21,6 +21,9 @@ De faire un coloriage magique
 Ils ont faim et n'arrivent pas à ce concentrer
 Ils veulent vite sortir pour manger du sucré
 
+Ils cherchent une faute dans le cours affiché
+Ils veulent tous qu'on leur paie un café
+
 Mot-clés, des idées:
 - prendre un ptit déj équilibré pour bien attaquer la journée
 - p*****n de cours de code collab, on aurait avoir le pont
@@ -39,6 +42,8 @@ Leurs écrans brillent comme aurore,
 Sous le vent froid de novembre encore,
 Et dans les lignes de leur esprit,
 Git s’écrit, puis se relit.
+
+
 
 >>>>>>> ec1c7b346d1178544273f8ca25be0f4fa81ae82d
 >>>>>>> 2b4fcba (ajouter ma contribution)
