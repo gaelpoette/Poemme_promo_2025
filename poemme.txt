@@ -15,6 +15,7 @@ Ca fait beaucoup de travail à la maison
 Et du coup le mardi férié ne l'est plus
 Il serait bien plus pratique
 De faire un coloriage magique
+<<<<<<< HEAD
 
 Ils ont faim et n'arrivent pas à ce concentrer
 
@@ -31,3 +32,12 @@ Cependant il ne faut pas se leurrer, ce TP ils vont le terminer
 
 
 Cependant il ne faut pas se leurrer, ce TP ils vont le terminer
+=======
+Ils ont faim et n'arrivent pas à ce concentrer
+Leurs écrans brillent comme aurore,
+Sous le vent froid de novembre encore,
+Et dans les lignes de leur esprit,
+Git s’écrit, puis se relit.
+
+>>>>>>> ec1c7b346d1178544273f8ca25be0f4fa81ae82d
+>>>>>>> 2b4fcba (ajouter ma contribution)
