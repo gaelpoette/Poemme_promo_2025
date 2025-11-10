@@ -48,5 +48,10 @@ Leurs écrans brillent comme aurore,
 Sous le vent froid de novembre encore,
 Et dans les lignes de leur esprit,
 Git s’écrit, puis se relit.
+<<<<<<< HEAD
 
 >>>>>>> 51700fa9e82092ec201f46b71f522c19ee8949ef
+=======
+Et quand enfin le code compile sans bruit,
+Un rire discret éclaire la nuit.
+>>>>>>> ab05619fb035b5c04eeb2879020823c574a53727
