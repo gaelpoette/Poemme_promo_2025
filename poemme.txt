@@ -3,10 +3,6 @@ Poemme promo 2025
 Par un beau matin de Novembre
 Les étudiants s'attaquent à git
 Ils ne sont pas là pour manger des frites
-
-Pour toute la journée 
-
-
 Même s'ils préfèreraient faire le pont dans leur chambre
 
 
@@ -14,23 +10,31 @@ Le TP d'incertitudes est un peu trop long
 Ca fait beaucoup de travail à la maison
 Et du coup le mardi férié ne l'est plus
 Au pire on peut toujours décaler le rendu...
+
+
 Il serait bien plus pratique
 De faire un coloriage magique
-
-
 Ils ont faim et n'arrivent pas à ce concentrer
 Ils veulent vite sortir pour manger du sucré
-
+Ils ont faim et n'arrivent pas à ce concentrer
+Cependant il ne faut pas se leurrer, ce TP ils vont le terminer (pas sur hein)
 Ils cherchent une faute dans le cours affiché
 Ils veulent tous qu'on leur paie un café
+
+Leurs écrans brillent comme aurore,
+Sous le vent froid de novembre encore,
+Et dans les lignes de leur esprit,
+Git s’écrit, puis se relit.
+Et quand enfin le code compile sans bruit,
+Un rire discret éclaire la nuit.
+
+
+
+Pour toute la journée 
 
 Mot-clés, des idées:
 - prendre un ptit déj équilibré pour bien attaquer la journée
 - p*****n de cours de code collab, on aurait avoir le pont
-
-Ils ont faim et n'arrivent pas à ce concentrer
-Cependant il ne faut pas se leurrer, ce TP ils vont le terminer (pas sur hein)
-
 
 
 
@@ -38,9 +42,4 @@ Cependant il ne faut pas se leurrer, ce TP ils vont le terminer (pas sur hein)
 Cependant il ne faut pas se leurrer, ce TP ils vont le terminer
 Pour profiter de leur mardi en soirée
 Ils ont faim et n'arrivent pas à ce concentrer
-Leurs écrans brillent comme aurore,
-Sous le vent froid de novembre encore,
-Et dans les lignes de leur esprit,
-Git s’écrit, puis se relit.
-Et quand enfin le code compile sans bruit,
-Un rire discret éclaire la nuit.
+
